@@ -1,0 +1,73 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "123456"
+      
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "janedoe@gmail.com",
+      "password": "654321"
+      
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Smith",
+      "email": "jimsmith@gmail.com",
+      "password": "abcdef"
+      
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Johnson",
+      "email": "jessicajohnson@gmail.com",
+      "password": "fedcba"
+     
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Brown",
+      "email": "jackbrown@gmail.com",
+      "password": "112233"
+     
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Williams",
+      "email": "juliawilliams@gmail.com",
+      "password": "332211"
+     
+    },
+    {
+      "firstName": "Jerry",
+      "lastName": "Jones",
+      "email": "jerryjones@gmail.com",
+      "password": "abc123"
+     
+    },
+    {
+      "firstName": "Jasmine",
+      "lastName": "Miller",
+      "email": "jasminemiller@gmail.com",
+      "password": "321cba"
+     
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Davis",
+      "email": "josephdavis@gmail.com",
+      "password": "123abc"
+      
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Garcia",
+      "email": "jennifergarcia@gmail.com",
+      "password": "cba321"
+    
+    }
+  ]
+  
