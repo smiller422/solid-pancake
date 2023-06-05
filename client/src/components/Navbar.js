@@ -44,16 +44,7 @@ function Navbar({ currentPage, handlePageChange }) {
             Contact Us
           </a>
         </li>
-        {/* Add more nav links as needed */}
-        <li className="nav-item mx-2.5">
-          <a
-            href="/services"
-            // onClick={() => handlePageChange("Services")}
-            className={currentPage === "Services" ? "nav-link active" : "nav-link"}
-          >
-            Services
-          </a>
-        </li>
+      
       </ul>
     </div>
   );
